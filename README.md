@@ -1,2 +1,4 @@
 # pruebaGit
-primera clase de git
+primera clase de gits
+
+primer comit
